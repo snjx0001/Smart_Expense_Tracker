@@ -1,0 +1,2 @@
+# Smart Expense Tracker uses only Python standard-library modules.
+# Jupyter Notebook/JupyterLab is optional and only needed for expense_tracker.ipynb.
